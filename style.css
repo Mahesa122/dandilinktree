@@ -10,11 +10,11 @@ body{
     justify-content: center;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
-    background-image: url('img/IMG-20251224-WA0010.jpg');
+    background-image: url('img/IMG-20251231-WA0000.jpg');
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;        /* biar penuh layar */
-    background-attachment: fixed;  /* INI KUNCINYA */
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 .wrapper{
